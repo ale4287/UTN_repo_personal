@@ -1,6 +1,9 @@
 # UTN_BsAs_Tercer_Semestre
 
-Repositorio para la presentación de ejercicios de las materias LABORATORIO III 2022 y PROGRAMACION III 2022 
+
+![image](https://user-images.githubusercontent.com/105835509/232646989-da42f206-b2be-4742-bfff-6aaaa08aaaa0.png)
+
+Repositorio para la presentación de ejercicios de las materias LABORATORIO III 2022 y PROGRAMACION III 2022
  del Tercer Semestre.
 
 - Maximiliano Chalin 
