@@ -64,6 +64,6 @@ public class CalculadoraUTN {
             }
             default -> System.out.println("Opcion erronea" +operacion);
         } //Fin switch
-    } //Fin metodo ejecutarOpercion
+    } //Fin metodo ejecutarOperacion
 
 } //Fin clase
